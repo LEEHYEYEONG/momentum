@@ -85,4 +85,5 @@ img {
   top: 5px;
   right: 5px;
   font-size: 25px;
+  z-index: 1;
 }
